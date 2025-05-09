@@ -1,14 +1,13 @@
 # EXP.NO.1-EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
- 
 
-1.Experimental Verification Of Signal Sampling Using Various Types Such as 
-    i) Natural Sampling
-    ii) Flat Top Sampling
+ 
 
 ## AIM
  To perform experimental verification of various types of sampling such as natural sampling and flat top sampling.
+ 
 ## APPARATUS REQUIRED
-Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)   
+Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)  
+
 ## PROCEDURE
 
 NATURAL SAMPLING: 
@@ -68,14 +67,21 @@ Repeat the procedure for the 2khz, sine wave signal as input
 ![Screenshot 2025-04-06 193958](https://github.com/user-attachments/assets/0df7792d-243f-4325-bdee-df2cefcd94ca)
 ![Screenshot 2025-04-06 194017](https://github.com/user-attachments/assets/d72ffded-bac7-4d30-a496-8d0ff594f722)
 
+
 ## MODEL GRAPH
 ![Screenshot 2025-04-06 194106](https://github.com/user-attachments/assets/ed038f41-fa8c-41df-b3cd-9ee440dc0318)
 ![Screenshot 2025-04-06 194128](https://github.com/user-attachments/assets/ec635744-99c8-46f3-9000-8e05084c90ab)
 
+
 ## TABLE
 ![WhatsApp Image 2025-04-06 at 19 56 23_432f16a8](https://github.com/user-attachments/assets/33867ba3-c4e1-42e8-b0f2-f6e67c9090df)
+
 
 ## OUTPUT GRAPHS
 ![WhatsApp Image 2025-04-06 at 19 56 24_369a930f](https://github.com/user-attachments/assets/07f0b35f-112c-4582-9203-8c3e2dbdb020)
 ![WhatsApp Image 2025-04-06 at 19 56 23_ee6a6849](https://github.com/user-attachments/assets/735c1fd0-a509-42b8-a7da-45162c94f0f6)
 ![WhatsApp Image 2025-04-06 at 19 56 24_3ed626f0](https://github.com/user-attachments/assets/93ed841a-b70c-446e-a6cd-eca07b839040)
+
+
+## RESULT 
+Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques.
